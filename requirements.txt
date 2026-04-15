@@ -1,4 +1,6 @@
-langchain-groq>=0.1.0
-langchain-core>=0.1.0
-sentence-transformers>=2.2.0
-python-dotenv>=1.0.0
+langchain-groq>=1.1.2
+langchain-core>=1.2.29
+sentence-transformers>=5.4.1
+python-dotenv>=1.2.2
+transformers>=5.5.4
+huggingface_hub>=1.10.2
