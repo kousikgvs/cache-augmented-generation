@@ -17,4 +17,4 @@
 
 ## Folder: CAG_2
 
-No VersionV1 notebook implementation is added in this folder yet. The same disadvantages are expected if the same baseline pattern is reused.
+No VersionV1 notebook implementation is added in this folder yet.
